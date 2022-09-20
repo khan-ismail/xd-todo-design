@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39.285" height="51.01" viewBox="0 0 39.285 51.01">
+  <g id="Group_70" data-name="Group 70" transform="translate(-566 -329.843)">
+    <path id="Union_2" data-name="Union 2" d="M2.889,9.392a2.889,2.889,0,1,1,0-5.777H7.426L9.258.473A1,1,0,0,1,10.684.149H28.047a1,1,0,0,1,1.426.325l1.832,3.141H36.4a2.889,2.889,0,0,1,0,5.777Z" transform="translate(566 329.866)" fill="#c9bbcf"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="32.352" height="39.285" rx="3" transform="translate(569.466 341.568)" fill="#c9bbcf"/>
+    <line id="Line_15" data-name="Line 15" x1="28.308" transform="translate(576.977 347.057) rotate(90)" fill="none" stroke="#898aa6" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_16" data-name="Line 16" x1="28.308" transform="translate(594.308 347.057) rotate(90)" fill="none" stroke="#898aa6" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_17" data-name="Line 17" x1="28.308" transform="translate(585.643 347.057) rotate(90)" fill="none" stroke="#898aa6" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_18" data-name="Line 18" x1="18.198" transform="translate(576.11 334.626)" fill="none" stroke="#898aa6" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
